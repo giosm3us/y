@@ -1,4 +1,4 @@
- #EXTM3U France
+ #EXTM3U 
 #EXTINF:-1, lesbian
 http://live.redtraffic.xyz/lesbian.m3u8
 #EXTINF:-1, russian
@@ -284,48 +284,47 @@ http://v2.14mp4.com/av-hls/20160713/m28/index.m3u8
 #extinf:-5,q
 	http://v2.14mp4.com/av-hls/20160713/m125/index.m3u8 
 #extinf:-5,r
-	http://v2.14mp4.com/av-hls/20160713/m126/index.m3u8 
+http://v2.14mp4.com/av-hls/20160713/m126/index.m3u8 
 #extinf:-5,s
-	http://v2.14mp4.com/av-hls/20160713/m127/index.m3u8 
+http://v2.14mp4.com/av-hls/20160713/m127/index.m3u8 
 #extinf:-5,t
-	http://v2.14mp4.com/av-hls/20160713/m128/index.m3u8 
+http://v2.14mp4.com/av-hls/20160713/m128/index.m3u8 
 #extinf:-5,u
-	http://v2.14mp4.com/av-hls/20160713/m129/index.m3u8 
+http://v2.14mp4.com/av-hls/20160713/m129/index.m3u8 
 #extinf:-5,v
-	http://v2.14mp4.com/av-hls/20160713/m130/index.m3u8 
+http://v2.14mp4.com/av-hls/20160713/m130/index.m3u8 
 #extinf:-5,w
-	http://v2.14mp4.com/av-hls/20160713/m131/index.m3u8 
+http://v2.14mp4.com/av-hls/20160713/m131/index.m3u8 
 #extinf:-5,x
-	http://v2.14mp4.com/av-hls/20160713/m132/index.m3u8 
+http://v2.14mp4.com/av-hls/20160713/m132/index.m3u8 
 #extinf:-5,y
-	http://v2.14mp4.com/av-hls/20160713/m133/index.m3u8 
+http://v2.14mp4.com/av-hls/20160713/m133/index.m3u8 
 #extinf:-5,z
-	http://v2.14mp4.com/av-hls/20160713/m134/index.m3u8 
+http://v2.14mp4.com/av-hls/20160713/m134/index.m3u8 
 #extinf:-6
-	http://v2.14mp4.com/av-hls/20160713/m135/index.m3u8 
+http://v2.14mp4.com/av-hls/20160713/m135/index.m3u8 
 #extinf:-6,a
-	http://v2.14mp4.com/av-hls/20160713/m136/index.m3u8 
+http://v2.14mp4.com/av-hls/20160713/m136/index.m3u8 
 #extinf:-6,b
-	http://v2.14mp4.com/av-hls/20160713/m137/index.m3u8 
+http://v2.14mp4.com/av-hls/20160713/m137/index.m3u8 
 #extinf:-6,c
-	http://v2.14mp4.com/av-hls/20160713/m138/index.m3u8 
+http://v2.14mp4.com/av-hls/20160713/m138/index.m3u8 
 #extinf:-6,d
-	http://v2.14mp4.com/av-hls/20160713/m139/index.m3u8 
+http://v2.14mp4.com/av-hls/20160713/m139/index.m3u8 
 #extinf:-6,e
-	http://v2.14mp4.com/av-hls/20160713/m140/index.m3u8 
+http://v2.14mp4.com/av-hls/20160713/m140/index.m3u8 
 #extinf:-6,f
-	http://v2.14mp4.com/av-hls/20160713/m141/index.m3u8 
+http://v2.14mp4.com/av-hls/20160713/m141/index.m3u8 
 #extinf:-6,g
-	http://v2.14mp4.com/av-hls/20160713/m142/index.m3u8 
+http://v2.14mp4.com/av-hls/20160713/m142/index.m3u8 
 #extinf:-6,h
-	http://v2.14mp4.com/av-hls/20160713/m143/index.m3u8 
+http://v2.14mp4.com/av-hls/20160713/m143/index.m3u8 
 #extinf:-6,i
-	http://v2.14mp4.com/av-hls/20160713/m144/index.m3u8 
+http://v2.14mp4.com/av-hls/20160713/m144/index.m3u8 
 #extinf:-6,j
-	http://v2.14mp4.com/av-hls/20160713/m145/index.m3u8 
+http://v2.14mp4.com/av-hls/20160713/m145/index.m3u8 
 #extinf:-6,k
-	http://v2.14mp4.com/av-hls/20160713/m146/index.m3u8 
+http://v2.14mp4.com/av-hls/20160713/m146/index.m3u8 
 #extinf:-6,l
-	http://v2.14mp4.com/av-hls/20160713/m147/index.m3u8
+http://v2.14mp4.com/av-hls/20160713/m147/index.m3u8
 
-#extinf:- endlist
