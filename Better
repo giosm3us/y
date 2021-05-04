@@ -1,4 +1,1206 @@
-#EXTM3U:-1
+#EXTM3U
+#EXTINF:-1 tvg-country="US" group-title="US",A&E
+http://ky-tv.cc:25461/cde123/cde123/175784
+#EXTINF:-1 tvg-country="US" group-title="US",Animal Planet
+http://ky-tv.cc:25461/cde123/cde123/175791
+#EXTINF:-1 tvg-country="US" group-title="US",Animal Planet
+http://ky-tv.cc:25461/cde123/cde123/175793
+#EXTINF:-1 tvg-country="US" group-title="US",Animal Planet pacific
+http://ky-tv.cc:25461/cde123/cde123/175794
+#EXTINF:-1 tvg-country="US" group-title="US",BET
+http://ky-tv.cc:25461/cde123/cde123/175801
+#EXTINF:-1 tvg-country="US" group-title="US",BET HER
+http://ky-tv.cc:25461/cde123/cde123/175802
+#EXTINF:-1 tvg-country="US" group-title="US",BET pacific
+http://ky-tv.cc:25461/cde123/cde123/175803
+#EXTINF:-1 tvg-country="US" group-title="US",BOUNCE TV
+http://ky-tv.cc:25461/cde123/cde123/175804
+#EXTINF:-1 tvg-country="US" group-title="US",Bravo
+http://ky-tv.cc:25461/cde123/cde123/175805
+#EXTINF:-1 tvg-country="US" group-title="US",Bravo pacific
+http://ky-tv.cc:25461/cde123/cde123/175809
+#EXTINF:-1 tvg-country="US" group-title="US",Buzzr
+http://ky-tv.cc:25461/cde123/cde123/175810
+#EXTINF:-1 tvg-country="US" group-title="US",Comedy Central
+http://ky-tv.cc:25461/cde123/cde123/175812
+#EXTINF:-1 tvg-country="US" group-title="US",Comedy Central
+http://ky-tv.cc:25461/cde123/cde123/175813
+#EXTINF:-1 tvg-country="US" group-title="US",Comet
+http://ky-tv.cc:25461/cde123/cde123/175814
+#EXTINF:-1 tvg-country="US" group-title="US",Discovery
+http://ky-tv.cc:25461/cde123/cde123/175826
+#EXTINF:-1 tvg-country="US" group-title="US",Discovery Family
+http://ky-tv.cc:25461/cde123/cde123/175828
+#EXTINF:-1 tvg-country="US" group-title="US",Discovery Life
+http://ky-tv.cc:25461/cde123/cde123/175829
+#EXTINF:-1 tvg-country="US" group-title="US",Discovery Science
+http://ky-tv.cc:25461/cde123/cde123/175831
+#EXTINF:-1 tvg-country="US" group-title="US",Discovery Science
+http://ky-tv.cc:25461/cde123/cde123/175833
+#EXTINF:-1 tvg-country="US" group-title="US",Motor Trend
+http://ky-tv.cc:25461/cde123/cde123/175834
+#EXTINF:-1 tvg-country="US" group-title="US",Discovery pacific
+http://ky-tv.cc:25461/cde123/cde123/175835
+#EXTINF:-1 tvg-country="US" group-title="US",Food Network
+http://ky-tv.cc:25461/cde123/cde123/175847
+#EXTINF:-1 tvg-country="US" group-title="US",Food Network
+http://ky-tv.cc:25461/cde123/cde123/175848
+#EXTINF:-1 tvg-country="US" group-title="US",Food Network
+http://ky-tv.cc:25461/cde123/cde123/175850
+#EXTINF:-1 tvg-country="US" group-title="US",Food Network pacific
+http://ky-tv.cc:25461/cde123/cde123/175851
+#EXTINF:-1 tvg-country="US" group-title="US",Freeform
+http://ky-tv.cc:25461/cde123/cde123/175852
+#EXTINF:-1 tvg-country="US" group-title="US",Freeform
+http://ky-tv.cc:25461/cde123/cde123/175853
+#EXTINF:-1 tvg-country="US" group-title="US",Freeform pacific
+http://ky-tv.cc:25461/cde123/cde123/175855
+#EXTINF:-1 tvg-country="US" group-title="US",Fuse TV
+http://ky-tv.cc:25461/cde123/cde123/175856
+#EXTINF:-1 tvg-country="US" group-title="US",Fuse
+http://ky-tv.cc:25461/cde123/cde123/175857
+#EXTINF:-1 tvg-country="US" group-title="US",Nat Geo
+http://ky-tv.cc:25461/cde123/cde123/175899
+#EXTINF:-1 tvg-country="US" group-title="US",Nat Geo Wild
+http://ky-tv.cc:25461/cde123/cde123/175901
+#EXTINF:-1 tvg-country="US" group-title="US",Paramount
+http://ky-tv.cc:25461/cde123/cde123/175914
+#EXTINF:-1 tvg-country="US" group-title="US",Syfy
+http://ky-tv.cc:25461/cde123/cde123/175933
+#EXTINF:-1 tvg-country="US" group-title="US",Syfy pacific
+http://ky-tv.cc:25461/cde123/cde123/175934
+#EXTINF:-1 tvg-country="US" group-title="US",Tastemade
+http://ky-tv.cc:25461/cde123/cde123/175935
+#EXTINF:-1 tvg-country="US" group-title="US",TBS
+http://ky-tv.cc:25461/cde123/cde123/175938
+#EXTINF:-1 tvg-country="US" group-title="US",TBS pacific
+http://ky-tv.cc:25461/cde123/cde123/175941
+#EXTINF:-1 tvg-country="US" group-title="US",TNT
+http://ky-tv.cc:25461/cde123/cde123/175951
+#EXTINF:-1 tvg-country="US" group-title="US",TNT
+http://ky-tv.cc:25461/cde123/cde123/175952
+#EXTINF:-1 tvg-country="US" group-title="US",TNT pacific
+http://ky-tv.cc:25461/cde123/cde123/175953
+#EXTINF:-1 tvg-country="US" group-title="US",TNT pacific
+http://ky-tv.cc:25461/cde123/cde123/175954
+#EXTINF:-1 tvg-country="US" group-title="US",truTV
+http://ky-tv.cc:25461/cde123/cde123/175960
+#EXTINF:-1 tvg-country="US" group-title="US",truTV pacific
+http://ky-tv.cc:25461/cde123/cde123/175962
+#EXTINF:-1 tvg-country="US" group-title="US",5 StarMax
+http://ky-tv.cc:25461/cde123/cde123/176010
+#EXTINF:-1 tvg-country="US" group-title="US",ActionMax
+http://ky-tv.cc:25461/cde123/cde123/176011
+#EXTINF:-1 tvg-country="US" group-title="US",ActionMax pacific
+http://ky-tv.cc:25461/cde123/cde123/176012
+#EXTINF:-1 tvg-country="US" group-title="US",Cinemax
+http://ky-tv.cc:25461/cde123/cde123/176013
+#EXTINF:-1 tvg-country="US" group-title="US",Cinemax
+http://ky-tv.cc:25461/cde123/cde123/176015
+#EXTINF:-1 tvg-country="US" group-title="US",MoreMax
+http://ky-tv.cc:25461/cde123/cde123/176016
+#EXTINF:-1 tvg-country="US" group-title="US",MoreMax pacific
+http://ky-tv.cc:25461/cde123/cde123/176017
+#EXTINF:-1 tvg-country="US" group-title="US",MovieMAX
+http://ky-tv.cc:25461/cde123/cde123/176018
+#EXTINF:-1 tvg-country="US" group-title="US",MovieMAX SD
+http://ky-tv.cc:25461/cde123/cde123/176019
+#EXTINF:-1 tvg-country="US" group-title="US",OuterMax
+http://ky-tv.cc:25461/cde123/cde123/176020
+#EXTINF:-1 tvg-country="US" group-title="US",ThrillerMax
+http://ky-tv.cc:25461/cde123/cde123/176021
+#EXTINF:-1 tvg-country="US" group-title="US",ThrillerMax pacific
+http://ky-tv.cc:25461/cde123/cde123/176023
+#EXTINF:-1 tvg-country="US" group-title="US",Cinemax pacific
+http://ky-tv.cc:25461/cde123/cde123/176024
+#EXTINF:-1 tvg-country="US" group-title="US",EPIX
+http://ky-tv.cc:25461/cde123/cde123/176026
+#EXTINF:-1 tvg-country="US" group-title="US",EPIX Drive-In
+http://ky-tv.cc:25461/cde123/cde123/176027
+#EXTINF:-1 tvg-country="US" group-title="US",EPIX Hits
+http://ky-tv.cc:25461/cde123/cde123/176028
+#EXTINF:-1 tvg-country="US" group-title="US",Epix Hits
+http://ky-tv.cc:25461/cde123/cde123/176029
+#EXTINF:-1 tvg-country="US" group-title="US",EPIX2
+http://ky-tv.cc:25461/cde123/cde123/176030
+#EXTINF:-1 tvg-country="US" group-title="US",FX
+http://ky-tv.cc:25461/cde123/cde123/176031
+#EXTINF:-1 tvg-country="US" group-title="US",FX
+http://ky-tv.cc:25461/cde123/cde123/176033
+#EXTINF:-1 tvg-country="US" group-title="US",FXM
+http://ky-tv.cc:25461/cde123/cde123/176036
+#EXTINF:-1 tvg-country="US" group-title="US",FXX 
+http://ky-tv.cc:25461/cde123/cde123/176039
+#EXTINF:-1 tvg-country="US" group-title="US",FXX pacific
+http://ky-tv.cc:25461/cde123/cde123/176040
+#EXTINF:-1 tvg-country="US" group-title="US",HBO 2
+http://ky-tv.cc:25461/cde123/cde123/176041
+#EXTINF:-1 tvg-country="US" group-title="US",HBO Comedy
+http://ky-tv.cc:25461/cde123/cde123/176042
+#EXTINF:-1 tvg-country="US" group-title="US",HBO
+http://ky-tv.cc:25461/cde123/cde123/176044
+#EXTINF:-1 tvg-country="US" group-title="US",HBO Family
+http://ky-tv.cc:25461/cde123/cde123/176047
+#EXTINF:-1 tvg-country="US" group-title="US",HBO Signature
+http://ky-tv.cc:25461/cde123/cde123/176048
+#EXTINF:-1 tvg-country="US" group-title="US",HBO pacific
+http://ky-tv.cc:25461/cde123/cde123/176050
+#EXTINF:-1 tvg-country="US" group-title="US",HBO Zone
+http://ky-tv.cc:25461/cde123/cde123/176052
+#EXTINF:-1 tvg-country="US" group-title="US",Showtime 2
+http://ky-tv.cc:25461/cde123/cde123/176054
+#EXTINF:-1 tvg-country="US" group-title="US",Showtime
+http://ky-tv.cc:25461/cde123/cde123/176056
+#EXTINF:-1 tvg-country="US" group-title="US",Showtime Extreme
+http://ky-tv.cc:25461/cde123/cde123/176059
+#EXTINF:-1 tvg-country="US" group-title="US",Showtime Family Zone
+http://ky-tv.cc:25461/cde123/cde123/176060
+#EXTINF:-1 tvg-country="US" group-title="US",Showtime Next
+http://ky-tv.cc:25461/cde123/cde123/176061
+#EXTINF:-1 tvg-country="US" group-title="US",Showtime Showcase
+http://ky-tv.cc:25461/cde123/cde123/176063
+#EXTINF:-1 tvg-country="US" group-title="US",Showtime pacific
+http://ky-tv.cc:25461/cde123/cde123/176064
+#EXTINF:-1 tvg-country="US" group-title="US",Showtime Women
+http://ky-tv.cc:25461/cde123/cde123/176065
+#EXTINF:-1 tvg-country="US" group-title="US",Sony Movie Channel
+http://ky-tv.cc:25461/cde123/cde123/176066
+#EXTINF:-1 tvg-country="US" group-title="US",Sony Movie Channel
+http://ky-tv.cc:25461/cde123/cde123/176067
+#EXTINF:-1 tvg-country="US" group-title="US",Starz Cinema
+http://ky-tv.cc:25461/cde123/cde123/176068
+#EXTINF:-1 tvg-country="US" group-title="US",Starz Comedy
+http://ky-tv.cc:25461/cde123/cde123/176069
+#EXTINF:-1 tvg-country="US" group-title="US",StarZ
+http://ky-tv.cc:25461/cde123/cde123/176071
+#EXTINF:-1 tvg-country="US" group-title="US",Starz Encore Action
+http://ky-tv.cc:25461/cde123/cde123/176072
+#EXTINF:-1 tvg-country="US" group-title="US",STARZ ENCORE ACTION SD
+http://ky-tv.cc:25461/cde123/cde123/176073
+#EXTINF:-1 tvg-country="US" group-title="US",Starz Encore Black
+http://ky-tv.cc:25461/cde123/cde123/176074
+#EXTINF:-1 tvg-country="US" group-title="US",Starz Encore Classic
+http://ky-tv.cc:25461/cde123/cde123/176075
+#EXTINF:-1 tvg-country="US" group-title="US",Starz Encore
+http://ky-tv.cc:25461/cde123/cde123/176076
+#EXTINF:-1 tvg-country="US" group-title="US",Starz Encore Edge
+http://ky-tv.cc:25461/cde123/cde123/176077
+#EXTINF:-1 tvg-country="US" group-title="US",Starz Encore Family
+http://ky-tv.cc:25461/cde123/cde123/176078
+#EXTINF:-1 tvg-country="US" group-title="US",Starz Encore Suspense
+http://ky-tv.cc:25461/cde123/cde123/176079
+#EXTINF:-1 tvg-country="US" group-title="US",Starz Encore pacific
+http://ky-tv.cc:25461/cde123/cde123/176080
+#EXTINF:-1 tvg-country="US" group-title="US",Starz Encore pacific
+http://ky-tv.cc:25461/cde123/cde123/176081
+#EXTINF:-1 tvg-country="US" group-title="US",Starz in Black
+http://ky-tv.cc:25461/cde123/cde123/176082
+#EXTINF:-1 tvg-country="US" group-title="US",Starz Kidz
+http://ky-tv.cc:25461/cde123/cde123/176083
+#EXTINF:-1 tvg-country="US" group-title="US",Starz pacific
+http://ky-tv.cc:25461/cde123/cde123/176084
+#EXTINF:-1 tvg-country="US" group-title="US",Sundance
+http://ky-tv.cc:25461/cde123/cde123/176085
+#EXTINF:-1 tvg-country="US" group-title="US",Cartoon Network
+http://ky-tv.cc:25461/cde123/cde123/176241
+#EXTINF:-1 tvg-country="US" group-title="US",Cartoon Network
+http://ky-tv.cc:25461/cde123/cde123/176243
+#EXTINF:-1 tvg-country="US" group-title="US",Cartoon Network pacific
+http://ky-tv.cc:25461/cde123/cde123/176245
+#EXTINF:-1 tvg-country="US" group-title="US",Disney Channel
+http://ky-tv.cc:25461/cde123/cde123/176246
+#EXTINF:-1 tvg-country="US" group-title="US",Disney Channel
+http://ky-tv.cc:25461/cde123/cde123/176248
+#EXTINF:-1 tvg-country="US" group-title="US",Disney Channel pacific
+http://ky-tv.cc:25461/cde123/cde123/176250
+#EXTINF:-1 tvg-country="US" group-title="US",Disney Junior
+http://ky-tv.cc:25461/cde123/cde123/176252
+#EXTINF:-1 tvg-country="US" group-title="US",Disney Junior
+http://ky-tv.cc:25461/cde123/cde123/176254
+#EXTINF:-1 tvg-country="US" group-title="US",Disney Junior pacific
+http://ky-tv.cc:25461/cde123/cde123/176256
+#EXTINF:-1 tvg-country="US" group-title="US",Disney XD
+http://ky-tv.cc:25461/cde123/cde123/176257
+#EXTINF:-1 tvg-country="US" group-title="US",Disney XD
+http://ky-tv.cc:25461/cde123/cde123/176258
+#EXTINF:-1 tvg-country="US" group-title="US",Disney XD
+http://ky-tv.cc:25461/cde123/cde123/176260
+#EXTINF:-1 tvg-country="US" group-title="US",Disney XD pacific
+http://ky-tv.cc:25461/cde123/cde123/176261
+#EXTINF:-1 tvg-country="US" group-title="US",PBS Kids
+http://ky-tv.cc:25461/cde123/cde123/176263
+#EXTINF:-1 tvg-country="US" group-title="US",Nick Jr
+http://ky-tv.cc:25461/cde123/cde123/176264
+#EXTINF:-1 tvg-country="US" group-title="US",Teen Nick
+http://ky-tv.cc:25461/cde123/cde123/176265
+#EXTINF:-1 tvg-country="US" group-title="US",Nick Toon
+http://ky-tv.cc:25461/cde123/cde123/176266
+#EXTINF:-1 tvg-country="US" group-title="US",Nickelodeon
+http://ky-tv.cc:25461/cde123/cde123/176267
+#EXTINF:-1 tvg-country="US" group-title="US",Lifetime Movie Network SD
+http://ky-tv.cc:25461/cde123/cde123/176369
+#EXTINF:-1 tvg-country="US" group-title="US",Fox Business
+http://ky-tv.cc:25461/cde123/cde123/176949
+#EXTINF:-1 tvg-country="US" group-title="US",FOX Soccer Plus
+http://ky-tv.cc:25461/cde123/cde123/176986
+#EXTINF:-1 tvg-country="US" group-title="US",BET Jams
+http://ky-tv.cc:25461/cde123/cde123/177077
+#EXTINF:-1 tvg-country="US" group-title="US",BET SOUL
+http://ky-tv.cc:25461/cde123/cde123/177078
+#EXTINF:-1 tvg-country="US" group-title="US",Latin MTV_TR3S
+http://ky-tv.cc:25461/cde123/cde123/177080
+#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ3MjcwNTdf/Godzilla.vs.Kong.2021.png" group-title="Hollywood Movies",Godzilla_vs_Kong
+http://www.dropbox.com/s/ddp8kkkty4tmmg1/Godzilla_vs_Kong_%282021%29_WEBRip_high_%28fzmovies.net%29_c27b204d74ed71ec3ad5a6c094f78ae8.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ3NTU5NTZf/Zack.Snyders.Justice.League.2021.png" group-title="Hollywood Movies",Zack_Snyders_Justice_League
+http://www.dropbox.com/s/qtiquq15rl90zg4/Zack_Snyders_Justice_League_%282021%29.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ3NTYwNDJf/Raya.and.the.Last.Dragon.2021.png" group-title="Hollywood Movies",Raya_and_the_Last_Dragon (2021)
+http://www.dropbox.com/s/cdnzx290mgt0rhz/Raya_and_the_Last_Dragon_%282021%29.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ5NDU0ODBf/Mortal.Kombat.2021.png" group-title="Hollywood Movies",Mortal_Kombat_2021
+http://www.dropbox.com/s/q9mhszk77dgubg2/Mortal_Kombat_2021.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ5NDU2MTBf/take_back_2021.png" group-title="Hollywood Movies",take_back_2021
+http://www.dropbox.com/s/iqogrso83zt93n2/take_back_2021.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ5NDU3OTRf/blindsided_night_of_the_sicario_2021.png" group-title="Hollywood Movies",blindsided_night_of_the_sicario_2021
+http://www.dropbox.com/s/7w5c04h747pvk1g/blindsided_night_of_the_sicario_2021.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ5NDU4Nzlf/lazarus.png" group-title="Hollywood Movies",lazarus_2021
+http://www.dropbox.com/s/9ogif9ofcufv7n1/lazarus%202021.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ5NDU5NTJf/outside%20the%20wire" group-title="Hollywood Movies",blindsided_night_of_the_sicario_2021
+https://www.dropbox.com/s/bvjc3vxoum79dic/outside%20the%20wire%202021.mp4?dl=1
+
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/download/annabelle-film-wallpapers-wp2083279?nocache=1" group-title="Hollywood Movies",Annabelle: Creation (2017)
+http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/download/godzilla-planet-of-the-monsters-wallpapers-wp4825169?nocache=1" group-title="Hollywood Movies",Godzilla: Planet of the Monsters (2017)
+https://archive.org/download/GodzillaMonsterPlanet/Godzilla%20Monster%20Planet.mp4
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ5NDYwNjFf/Wish%20Upon%202017.png" group-title="Hollywood Movies",Wish Upon (2017)
+http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ5NDYwNzJf/Wonder%20Woman%202017.png" group-title="Hollywood Movies",Wonder Woman (2017)
+http://deadlyblogger.com/NewRelease/wonderwoman.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Colossal (2016)
+http://ia601501.us.archive.org/22/items/LaMaravillasDeLaVida201702/LaMaravillasDeLaVida2017_02.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",X-Men: Apocalypse (2016)
+http://deadlyblogger.com/NewRelease/xmen2016.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",The Transporter Refueled (2015)
+http://archive.org/download/TheTransporterRefueled20151080pBluRayX264DTSJYK/The%20Transporter%20Refueled%202015%201080p%20BluRay%20x264%20DTS-JYK.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Guardians of the Galaxy (2014)
+http://deadlyblogger.com/NewRelease/guardians2014.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",John Wick (2014)
+http://deadlyblogger.com/NewRelease/johnwick.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Ride Along (2014)
+http://www.deadlyblogger.com/NewRelease/ridealong2014.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",The Amazing Spider-Man 2 (2014)
+http://www.deadlyblogger.com/NewRelease/amazin2.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",47 Ronin
+http://www.deadlyblogger.com/NewRelease/47ronin.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",After Earth
+http://www.deadlyblogger.com/NewRelease/after.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Escape Plan
+http://www.deadlyblogger.com/NewRelease/escapeplan2013.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Furious 6
+http://www.deadlyblogger.com/NewRelease/fast6.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Killing Season
+http://www.deadlyblogger.com/NewRelease/killings.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Man of Steel
+http://www.deadlyblogger.com/NewRelease/steel.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Now You See Me
+http://www.deadlyblogger.com/NewRelease/nowyouseeme.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Olympus Has Fallen
+http://www.deadlyblogger.com/NewRelease/fallen1.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Prisoners
+http://www.deadlyblogger.com/NewRelease/prisoners.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Runner Runner
+http://www.deadlyblogger.com/NewRelease/runnerrunner.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",The Conjuring
+http://www.deadlyblogger.com/NewRelease/conjuring.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",The Mortal Instruments: City of Bones
+http://www.deadlyblogger.com/NewRelease/themort1.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",The Wolverine
+http://www.deadlyblogger.com/NewRelease/thewolverine.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",World War Z
+http://www.deadlyblogger.com/NewRelease/world.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Men in Black 3
+http://www.deadlyblogger.com/NewRelease/mnb3.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Project X
+http://www.deadlyblogger.com/NewRelease/projectx.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Safe House
+http://www.deadlyblogger.com/NewRelease/safehouse.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",The Bourne Legacy
+http://www.deadlyblogger.com/NewRelease/bourne4.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Wrong Turn 5: Bloodlines
+http://www.deadlyblogger.com/NewRelease/wrongturn5.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Rise of the Planet of the Apes
+http://www.deadlyblogger.com/NewRelease/apes7.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Transformers: Dark of the Moon
+http://www.deadlyblogger.com/NewRelease/transformers3.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Saw 3D - The Final Chapter
+http://www.deadlyblogger.com/NewRelease/saw7.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Unstoppable
+http://www.deadlyblogger.com/NewRelease/unstoppable.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Fast & Furious
+http://www.deadlyblogger.com/NewRelease/fast4.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Land of the Lost
+http://www.deadlyblogger.com/NewRelease/landlost.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Transformers: Revenge of the Fallen
+http://www.deadlyblogger.com/NewRelease/transformers2.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Wrong Turn 3 - Left for Dead
+http://www.deadlyblogger.com/NewRelease/wrongturn3.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",X-Men Origins: Wolverine
+http://www.deadlyblogger.com/NewRelease/origin.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Iron Man
+http://www.deadlyblogger.com/NewRelease/ironman1.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Transformers (2007)
+http://www.deadlyblogger.com/NewRelease/transformers1.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",The Fast and the Furious - Tokyo Drift (2006)
+http://www.deadlyblogger.com/NewRelease/fast3.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="VOD BARAT",Bloodshot (2020)
+https://ewr1.vultrobjects.com/dwa/PTXVtSDHRlGsp/hls-stream.m3u
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",X-Men: The Last Stand (2006)
+http://www.deadlyblogger.com/NewRelease/xmen3.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Fast 2 Furious (2003)
+http://www.deadlyblogger.com/NewRelease/fast2.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Bad Boys II (2003)
+http://www.deadlyblogger.com/NewRelease/badboys2.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Malibu's Most Wanted (2003)
+http://www.deadlyblogger.com/NewRelease/malibu1.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",The Lord of the Rings: The Return of the King (2003)
+http://www.deadlyblogger.com/NewRelease/returnking1.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="VOD BARAT",Terminator: Dark Fate (2019)
+https://ewr1.vultrobjects.com/dwa/lqiUuHFeoHcAq/hls-stream.m3u8
+#EXTINF:0 tvg-id="avi" group-title="VOD BARAT",Joker (2019)
+https://storage.dewanonton.me/hls/3bcfdf1a-7051-4c14-967e-a7fb2c74b69a.mp4/index.m3u8
+#EXTINF:0 tvg-id="avi" group-title="VOD BARAT",Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn (2019)
+https://ewr1.vultrobjects.com/dwa/WYYVWJAQdQqFN/hls-stream.m3u8
+#EXTINF:0 tvg-id="avi" group-title="VOD BARAT",Bad Boys for Life (2020)
+https://storage.dewanonton.me/hls/87709352-8ef4-4838-969d-acfe49613d28.mp4/index.m3u8
+#EXTINF:0 tvg-id="avi" group-title="VOD BARAT",Detention Letter (Arrest Letter) 2017
+https://storage.dewanonton.me/hls/42c80183-53b8-42a1-bbd8-f025a330bf6f.mp4/index.m3u8
+#EXTINF:0 tvg-id="avi" group-title="VOD BARAT",Black and Blue (2019)
+https://storage.dewanonton.me/hls/73a2b74b-ea5b-4e61-9a9c-34f4c4eaca75.mp4/index.m3u8
+#EXTINF:0 tvg-id="avi" group-title="VOD BARAT",Valhalla (2019)
+https://storage.dewanonton.me/hls/46e7c7b2-7d89-4e85-8374-3b6e88cc5091.mp4/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="VOD BARAT",Rampage (2018)
+https://storage.dewanonton.me/hls/6db30b1a-d083-4b41-b8f9-cc4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Men in Black II (2002)
+http://www.deadlyblogger.com/NewRelease/mnb2.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",The Lord of the Rings: The Two Towers (2002)
+http://www.deadlyblogger.com/NewRelease/twotowers.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",The Fast and the Furious (2001)
+http://www.deadlyblogger.com/NewRelease/fast1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pokemon 24/7 JP" tvg-logo="https://picon-13398.kxcdn.com/pokemon247.jpg" group-title="24/7",Pokemon 24/7 JP
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/35213
+#EXTINF:-1 tvg-id="" tvg-name="PAW Patrol 24/7 CA" tvg-logo="https://picon-13398.kxcdn.com/pawpatrol247.jpg" group-title="24/7",PAW Patrol 24/7 CA
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/39541
+#EXTINF:-1 tvg-id="" tvg-name="American Dad 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/americandad247.jpg" group-title="24/7",American Dad 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/29865
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/familyguy247.jpg" group-title="24/7",Family Guy 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/29866
+#EXTINF:-1 tvg-id="" tvg-name="Friends 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/friends247.jpg" group-title="24/7",Friends 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/29948
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/thebigbangtheory247.jpg" group-title="24/7",The Big Bang Theory 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/29949
+#EXTINF:-1 tvg-id="" tvg-name="Bobs Burgers 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/bobsburgers247.jpg" group-title="24/7",Bobs Burgers 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/39059
+#EXTINF:-1 tvg-id="" tvg-name="Simpsons 24/7 " tvg-logo="https://picon-13398.kxcdn.com/thesimpsons247.jpg" group-title="24/7",Simpsons 24/7 
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/30147
+#EXTINF:-1 tvg-id="" tvg-name="South Park 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/southpark247.jpg" group-title="24/7",South Park 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/37952
+#EXTINF:-1 tvg-id="" tvg-name="Tom And Jerry 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/tomandjerry247.jpg" group-title="24/7",Tom And Jerry 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/40823
+#EXTINF:-1 tvg-id="" tvg-name="Tom And Jerry Kids 24/7 ex-Yu" tvg-logo="https://picon-13398.kxcdn.com/tomandjerrykids247.jpg" group-title="24/7",Tom And Jerry Kids 24/7 ex-Yu
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/29151
+#EXTINF:-1 tvg-id="" tvg-name="Tom And Jerry Show 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/tomandjerryshow247.jpg" group-title="24/7",Tom And Jerry Show 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/40824
+#EXTINF:-1 tvg-id="" tvg-name="The Pink Panther 24/7" tvg-logo="https://picon-13398.kxcdn.com/pinkpanther247exyu.jpg" group-title="24/7",The Pink Panther 24/7
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/40825
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig 24/7" tvg-logo="https://picon-13398.kxcdn.com/peppapig247.jpg" group-title="24/7",Peppa Pig 24/7
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/40826
+#EXTINF:-1 tvg-id="" tvg-name="Looney Tunes 24/7" tvg-logo="https://picon-13398.kxcdn.com/looneytunes247.jpg" group-title="24/7",Looney Tunes 24/7
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/40827
+#EXTINF:-1 tvg-id="" tvg-name="Anime [German] 24/7 DE" tvg-logo="https://picon-13398.kxcdn.com/247picon.jpg" group-title="24/7",Anime [German] 24/7 DE
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/30313
+#EXTINF:-1 tvg-id="" tvg-name="Bleach [Anime-English] 24/7 JP" tvg-logo="https://picon-13398.kxcdn.com/bleach247.jpg" group-title="24/7",Bleach [Anime-English] 24/7 JP
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/30218
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z [Anime-English] 24/7 JP" tvg-logo="https://picon-13398.kxcdn.com/dragonballz247.jpg" group-title="24/7",Dragon Ball Z [Anime-English] 24/7 JP
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/30215
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-2 [Anime-English] 24/7 JP" tvg-logo="https://picon-13398.kxcdn.com/dragonballz247.jpg" group-title="24/7",Dragon Ball Z-2 [Anime-English] 24/7 JP
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/30216
+#EXTINF:-1 tvg-id="" tvg-name="Elfen Lied [Anime-English] 24/7 JP" tvg-logo="https://picon-13398.kxcdn.com/elfenlied247.jpg" group-title="24/7",Elfen Lied [Anime-English] 24/7 JP
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/30217
+#EXTINF:-1 tvg-id="" tvg-name="Young Sheldon 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/youngsheldon247.jpg" group-title="24/7",Young Sheldon 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/29658
+#EXTINF:-1 tvg-id="" tvg-name="The Grand Tour 24/7 UK" tvg-logo="https://picon-13398.kxcdn.com/thegrandtour247.jpg" group-title="24/7",The Grand Tour 24/7 UK
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/29694
+#EXTINF:-1 tvg-id="" tvg-name="Octonauts 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/octonauts247.jpg" group-title="24/7",Octonauts 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/31541
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball [GT-HEROES] 24/7 JP" tvg-logo="https://picon-13398.kxcdn.com/dragonball247.jpg" group-title="24/7",Dragon Ball [GT-HEROES] 24/7 JP
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/35209
+#EXTINF:-1 tvg-id="" tvg-name="DragonBall  24/7 JP" tvg-logo="https://picon-13398.kxcdn.com/dragonballsuper247.jpg" group-title="24/7",DragonBall  24/7 JP
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/35210
+#EXTINF:-1 tvg-id="" tvg-name="The Cleveland Show 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/theclevelandshow247.jpg" group-title="24/7",The Cleveland Show 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/39543
+#EXTINF:-1 tvg-id="" tvg-name="Naruto 24/7 JP" tvg-logo="" group-title="24/7",Naruto 24/7 JP
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/55884
+#EXTINF:-1 tvg-id="" tvg-name="Teen Titans Go! 24/7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udaLIJ6Na7GOHjvTlyP9JFPTccv.jpg" group-title="24/7",Teen Titans Go! 24/7
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/68676
+#EXTINF:-1 tvg-id="" tvg-name="Adventure Time 24/7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg" group-title="24/7",Adventure Time 24/7
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/69199
+#EXTINF:-1 tvg-id="" tvg-name="Futurama 24/7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4olv2DdNUdg7oE6zoevbZbgEPsB.jpg" group-title="24/7",Futurama 24/7
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/73858
+#EXTINF:-1 tvg-id="" tvg-name="South Park 24/7" tvg-logo="https://picon-13398.kxcdn.com/southpark247.jpg" group-title="24/7",South Park 24/7
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/73859
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Raising Hope" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91L8REihHTL._SL1500_.jpg" group-title="24/7",24/7 Raising Hope
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/77688
+EXTINF:-1 tvg-id="" tvg-name="Barnsånger 24/7 SE" tvg-logo="https://picon-13398.kxcdn.com/barnsangerse.jpg" group-title="24/7",Barnsånger 24/7 SE
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/44054
+#EXTINF:-1 tvg-id="" tvg-name="24 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/24247.jpg" group-title="24/7",24 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/38960
+#EXTINF:-1 tvg-id="" tvg-name="Homeland 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/homeland247.jpg" group-title="24/7",Homeland 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/38961
+#EXTINF:-1 tvg-id="" tvg-name="The Blacklist 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/theblacklist247.jpg" group-title="24/7",The Blacklist 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/39061
+#EXTINF:-1 tvg-id="" tvg-name="Modern Family 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/modernfamily247.jpg" group-title="24/7",Modern Family 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/29704
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/gameofthrones247.jpg" group-title="24/7",Game of Thrones 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/29706
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/thebreakingbad247.jpg" group-title="24/7",Breaking Bad 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/39809
+#EXTINF:-1 tvg-id="" tvg-name="The Handmaid's Tale 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/thehandmaidstale247.jpg" group-title="24/7",The Handmaid's Tale 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/39060
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/9-1-1247.jpg" group-title="24/7",9-1-1 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/29629
+#EXTINF:-1 tvg-id="" tvg-name="Killing Eve 24/7 UK" tvg-logo="https://picon-13398.kxcdn.com/killingeve247.jpg" group-title="24/7",Killing Eve 24/7 UK
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/29630
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/lucifer247.jpg" group-title="24/7",Lucifer 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/29650
+#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/thewalkingdead247.jpg" group-title="24/7",The Walking Dead 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/29651
+#EXTINF:-1 tvg-id="" tvg-name="SEAL Team 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/sealteam247.jpg" group-title="24/7",SEAL Team 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/29652
+#EXTINF:-1 tvg-id="" tvg-name="The Vampire Diaries 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/thevampirediaries247.jpg" group-title="24/7",The Vampire Diaries 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/29653
+#EXTINF:-1 tvg-id="" tvg-name="Car S.O.S. 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/carsos247.jpg" group-title="24/7",Car S.O.S. 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/29654
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/thegooddoctor247.jpg" group-title="24/7",The Good Doctor 24/7 US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/29656
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/flix.png" group-title="Movies",&Flix 
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/pT1VfTfQ/PICTURES.png" group-title="Movies",&pictures
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/prive.png" group-title="Movies",&Prive 
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhCjx0s4/A-H-M.png" group-title="Movies",Action Hollywood Movies
+http://203.154.177.124:8899/live/ch7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zTCNvDg/AMERICAN-HORRORS.png" group-title="Movies",AMERICAN HORRORS
+http://170.178.189.66:1935/live/Stream1/chunklist_w140565975.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",AMEDIA HIT HBO
+http://89.106.234.4/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="Movies",AXN
+https://nonton.site:8443/provision/pp/9
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" group-title="Movies",Bioskop Indonesia
+https://nonton.site:8443/provision/pp/908
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movies",Celestial Movies
+https://nonton.site:8443/provision/pp/5
+#EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png" group-title="Movies",Cinema World
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="Movies",Cinemax 
+https://nonton.site:8443/provision/pp/30185
+#EXTINF:0 tvg-logo="http://kamiselaluada.com/img/fox.png" group-title="Movies",Fox
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.logolynx.com/images/logolynx/s_ab/ab32e0ee56ece3fd3ba9561b568bbf4b.jpeg" group-title="Movies",Fox Crime
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:0 tvg-logo="http://kamiselaluada.com/img/foxfamilymovies.png" group-title="Movies",FoxFamilyMovie
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:0 tvg-logo="http://kamiselaluada.com/img/foxmovies.png" group-title="Movies",FoxMovies
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:0 tvg-logo="http://kamiselaluada.com/img/foxlife.png" group-title="Movies",Foxlife
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="Movies",Fox Life (2)
+https://nonton.site:8443/provision/pp/94
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="Movies",Galaxy Premium 
+https://nonton.site:8443/provision/pp/29603
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy SD" tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" group-title="Movies",Galaxy 
+https://nonton.site:8443/provision/pp/29604
+#EXTINF:0 tvg-logo="http://kamiselaluada.com/img/hbo.png"group-title="Movies",HBO 
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movies",HBO Family
+https://nonton.site:8443/provision/pp/592
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO Hits
+https://nonton.site:8443/provision/pp/591
+#EXTINF:0 tvg-logo="http://kamiselaluada.com/img/hbosig.png" group-title="Movies",HBO Signature
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+#EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS HD" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits.png" group-title="Movies",HITS 
+https://nonton.site:8443/provision/pp/1195
+#EXTINF:-1 tvg-id="" tvg-name="Hits Movie SD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" group-title="Movies",Hits Movie 
+https://nonton.site:8443/provision/pp/957
+#EXTINF:-1 tvg-id="" tvg-name="IMC SD" tvg-logo="" group-title="Movies",IMC SD
+https://nonton.site:8443/provision/pp/35484
+#EXTINF:-1 tvg-id="Lifetime.id" tvg-name="LifeTime HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="Movies",LifeTime 
+https://nonton.site:8443/provision/pp/866
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network US" tvg-logo="https://picon-13398.kxcdn.com/paramountchannel.jpg" group-title="Movies",Paramount Network US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/13107
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="Movies",Red By HBO 
+https://nonton.site:8443/provision/pp/4832
+#EXTINF:-1  tvg-logo="https://static.epg.best/il/MTV.il.png"  group-title="Music",MTV
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV UK" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg" group-title="Music",MTV 
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/18076
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV HD UK" tvg-logo="https://picon-13398.kxcdn.com/mtvhd.jpg" group-title="Music",MTV HD
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/20031
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/colorLogoPNG.png"  group-title="Music",MTV Animaciones
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png"  group-title="Music",MTV Are you the One?
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="MTV Base UK" tvg-logo="https://picon-13398.kxcdn.com/mtvbase.jpg" group-title="Music",MTV Base 
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/7319
+#EXTINF:-1  tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png"  group-title="Music",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Biggest Pop" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV Biggest Pop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="http://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png"  group-title="Music",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Block Party" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="Music",MTV Block Party
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png"  group-title="Music",MTV Catfish TV Show
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 tvg-id="MTVClassic.uk" tvg-name="MTV Classic UK" tvg-logo="https://picon-13398.kxcdn.com/mtvclassic.jpg" group-title="Music",MTV Classic 
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/7320
+#EXTINF:-1 tvg-id="4Music.uk" tvg-name="Club MTV UK" tvg-logo="https://picon-13398.kxcdn.com/clubmtvuk.jpg" group-title="Music",MTV Club 
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/7318
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5ea815a515d149000748ee9b/colorLogoPNG.png"  group-title="Music",MTV Cribs
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea815a515d149000748ee9b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="http://images.pluto.tv/channels/5ca6899a37b88b269472ea4b/colorLogoPNG.png"  group-title="Music",MTV Dating
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5caf330ea5068259a32320fd/colorLogoPNG.png"  group-title="Music",MTV Dating
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5caf330ea5068259a32320fd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTV Hits UK" tvg-logo="https://picon-13398.kxcdn.com/mtvhits.jpg" group-title="Music",MTV Hits 
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/7317
+#EXTINF:-1  tvg-logo="http://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png"  group-title="Music",MTV Latino
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="http://kamiselaluada.com/img/mtv.png"  group-title="Music",MTV Live 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live FHD UK" tvg-logo="https://picon-13398.kxcdn.com/mtvlivehd.jpg" group-title="Music",MTV Live FHD
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/13090
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/600ae79fa46e17000794e84c/colorLogoPNG.png"  group-title="Music",MTV Love Music
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ae79fa46e17000794e84c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1  tvg-logo="http://i.imgur.com/dh6sgLX.jpg"  group-title="Music",MTV Mistle YO!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="MTV Music UK" tvg-logo="https://picon-13398.kxcdn.com/mtvmusic.jpg" group-title="Music",MTV Music 
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/7316
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5caf325764025859afdd6c4d/colorLogoPNG.png"  group-title="Music",MTV pluto.tv
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5caf325764025859afdd6c4d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png"  group-title="Music",MTV Pranks
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="" tvg-name="MTV Spankin' New" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="Music",MTV Spankin' New
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5cffcf5686dfe15595fb3f56/featuredImage.jpg?w=750&fm=png"  group-title="Music",MTV Teen Mom
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cffcf5686dfe15595fb3f56/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5d00e86bf0bac55fe7f75736/colorLogoPNG.png"  group-title="Music",MTV The Hills
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d00e86bf0bac55fe7f75736/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/032018/untitled-3_18.png?OtKokB0.DfZ4wYhAcv3DR.iR2B5GZoE0&itok=jJhSg7H5"  group-title="Music",MTV Unplugged
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Point Break" tvg-logo="" group-title="BrightWall Technology (Movie)",Point Break
+http://newtube.ps/components/com_contushdvideoshare/videos/2537_video.mp4
+
+
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6184/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/527/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/1073/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/1064/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/871/index.m3u
+#EXTINF:-1, brazzers
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/872/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/876/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/878/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/242/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/243/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/244/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/245/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/874/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/2161/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/2162/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/2397/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5009/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5011/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5012/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5014/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6164/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6165/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6166/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6173/index.m3u
+#EXTINF:-1,
+#EXTINF:-1,http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6172/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6182/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6189/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6190/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6193/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6196/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6197/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6202/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6210/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6216/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6242/index.m3u
+#EXTINF:-1,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6249/index.m3u
+
+
+#EXTINF:0,Playboy
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/527/index.m3u
+#EXTINF:0,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/147/index.m3u
+#EXTINF:0,Brazzers TV Europe
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/910/index.m3u
+#EXTINF:0,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/922/index.m3u
+#EXTINF:0,Candy
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/923/index.m3u
+#EXTINF:0,Penthouse TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/1073/index.m3u
+#EXTINF:0,Blue Hustler
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/1064/index.m3u
+#EXTINF:0,Barely legal
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/871/index.m3u
+#EXTINF:0,BRAZZERS TV Europe 2
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/872/index.m3u
+#EXTINF:0,Sexto Senso
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/875/index.m3u
+#EXTINF:0,SCT
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/876/index.m3u
+#EXTINF:0,PRIVE
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/877/index.m3u
+#EXTINF:0,Passion XXX
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/878/index.m3u
+#EXTINF:0,Redlight HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/242/index.m3u
+#EXTINF:0,Private TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/243/index.m3u
+#EXTINF:0,Hustler HD Europe
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/244/index.m3u
+#EXTINF:0,Dorcel TV HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/245/index.m3u
+#EXTINF:0,Pink'o TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/874/index.m3u
+#EXTINF:0,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/2057/index.m3u
+#EXTINF:0,FrenchLover
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/2160/index.m3u
+#EXTINF:0,O-la-la
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/2161/index.m3u
+#EXTINF:0,Vivid Red HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/2162/index.m3u
+#EXTINF:0,Exxxotica HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/2397/index.m3u
+#EXTINF:0,XXL
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5009/index.m3u
+#EXTINF:0,Penthouse Passion
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5010/index.m3u
+#EXTINF:0,Penthouse Gold HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5011/index.m3u
+#EXTINF:0,Penthouse Quickies 1300k
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5012/index.m3u
+#EXTINF:0,Penthouse Quickies HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5013/index.m3u
+#EXTINF:0,Extasy 4K
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5014/index.m3u
+#EXTINF:0,Eroxxx HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5015/index.m3u
+#EXTINF:0,21 Sextury
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6164/index.m3u
+#EXTINF:0,A3 Bikini
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6165/index.m3u
+#EXTINF:0,Adult Time
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6166/index.m3u
+#EXTINF:0,Anal Red TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6167/index.m3u
+#EXTINF:0,Analized HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6168/index.m3u
+#EXTINF:0,AST TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6169/index.m3u
+#EXTINF:0,AST TV 2
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6170/index.m3u
+#EXTINF:0,Babes HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6171/index.m3u
+#EXTINF:0,Babes TV HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6172/index.m3u
+#EXTINF:0,Bang Bros HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6173/index.m3u
+#EXTINF:0,Bang!
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6174/index.m3u
+#EXTINF:0,Big Ass Adult TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6175/index.m3u
+#EXTINF:0,Big Dick Red TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6176/index.m3u
+#EXTINF:0,Big Tits Adult TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6177/index.m3u
+#EXTINF:0,Blacked HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6178/index.m3u
+#EXTINF:0,Blonde Adult TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6179/index.m3u
+#EXTINF:0,Blowjob Red TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6180/index.m3u
+#EXTINF:0,Brazzers eXXtra
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6181/index.m3u
+#EXTINF:0,Brazzers HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6182/index.m3u
+#EXTINF:0,Brunette Adult TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6183/index.m3u
+#EXTINF:0,cento x cento
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6184/index.m3u
+#EXTINF:0,Cherry Pimps
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6185/index.m3u
+#EXTINF:0,Club 17
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6186/index.m3u
+#EXTINF:0,Compilation Adult TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6187/index.m3u
+#EXTINF:0,Cuckold Red TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6188/index.m3u
+#EXTINF:0,Cum Louder
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6189/index.m3u
+#EXTINF:0,Cum4k
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6190/index.m3u
+#EXTINF:0,Daughter Swap
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6191/index.m3u
+#EXTINF:0,Day with a Pornstar
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6192/index.m3u
+#EXTINF:0,DDF Busty
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6193/index.m3u
+#EXTINF:0,DDF Network
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6194/index.m3u
+#EXTINF:0,Digital Desire HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6195/index.m3u
+#EXTINF:0,Digital Playground HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6196/index.m3u
+#EXTINF:0,Dorcel Club
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6197/index.m3u
+#EXTINF:0,Dusk
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6198/index.m3u
+#EXTINF:0,Evil Angel HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6199/index.m3u
+#EXTINF:0,Evolved Fights
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6200/index.m3u
+#EXTINF:0,Extasy HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6201/index.m3u
+#EXTINF:0,Fake Taxi HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6202/index.m3u
+#EXTINF:0,Fap TV 2
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6203/index.m3u
+#EXTINF:0,Fap TV 3
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6204/index.m3u
+#EXTINF:0,Fap TV 4
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6205/index.m3u
+#EXTINF:0,Fap TV Anal
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6206/index.m3u
+#EXTINF:0,Fap TV BBW
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6207/index.m3u
+#EXTINF:0,Fap TV Compilation
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6208/index.m3u
+#EXTINF:0,Fap TV Lesbian
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6209/index.m3u
+#EXTINF:0,Fap TV Parody
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6210/index.m3u
+#EXTINF:0,Fap TV Teens
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6211/index.m3u
+#EXTINF:0,FemJoy
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6212/index.m3u
+#EXTINF:0,Fetish Red TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6213/index.m3u
+#EXTINF:0,Gangbang Adult TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6214/index.m3u
+#EXTINF:0,Gay Adult TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6215/index.m3u
+#EXTINF:0,Got MYLF
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6216/index.m3u
+#EXTINF:0,Hands on Hardcore
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6217/index.m3u
+#EXTINF:0,Hard X
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6218/index.m3u
+#EXTINF:0,Hardcore Red TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6219/index.m3u
+#EXTINF:0,Hitzefrei HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6220/index.m3u
+#EXTINF:0,Holed
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6221/index.m3u
+#EXTINF:0,Hot and Mean
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6222/index.m3u
+#EXTINF:0,SuperONE HD RO
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/7001/index.m3u
+#EXTINF:0,Hot Guys Fuck
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6223/index.m3u
+#EXTINF:0,Interracial Red TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6224/index.m3u
+#EXTINF:0,Japan HDV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6225/index.m3u
+#EXTINF:0,Latina Red TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6226/index.m3u
+#EXTINF:0,Lesbea
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6227/index.m3u
+#EXTINF:0,Lesbian Red TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6228/index.m3u
+#EXTINF:0,Lethal Hardcore
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6229/index.m3u
+#EXTINF:0,Little Asians HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6230/index.m3u
+#EXTINF:0,Live Cams Adult TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6231/index.m3u
+#EXTINF:0,Lust Cinema
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6232/index.m3u
+#EXTINF:0,MetArt HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6233/index.m3u
+#EXTINF:0,MILF Red TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6234/index.m3u
+#EXTINF:0,Monsters of Cock
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6235/index.m3u
+#EXTINF:0,MYLF TV HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6236/index.m3u
+#EXTINF:0,Naughty America
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6237/index.m3u
+#EXTINF:0,Nubiles TV HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6238/index.m3u
+#EXTINF:0,ox-ax HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6239/index.m3u
+#EXTINF:0,Pink Erotic 3
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6240/index.m3u
+#EXTINF:0,Pink Erotic 4
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6241/index.m3u
+#EXTINF:0,Playboy Plus
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6242/index.m3u
+#EXTINF:0,Pornstar Red TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6243/index.m3u
+#EXTINF:0,POV Adult TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6244/index.m3u
+#EXTINF:0,Private HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6245/index.m3u
+#EXTINF:0,Public Agent
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6246/index.m3u
+#EXTINF:0,Reality Kings HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6247/index.m3u
+#EXTINF:0,RK Prime
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6248/index.m3u
+#EXTINF:0,RK TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6249/index.m3u
+#EXTINF:0,Rough Adult TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6250/index.m3u
+#EXTINF:0,Russian Adult TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6251/index.m3u
+#EXTINF:0,Sex With Muslims
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6252/index.m3u
+#EXTINF:0,SexArt
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6253/index.m3u
+#EXTINF:0,sext 6 senso
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6254/index.m3u
+#EXTINF:0,SINematica
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6255/index.m3u
+#EXTINF:0,Teen Red TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6256/index.m3u
+#EXTINF:0,Threesome Red TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6257/index.m3u
+#EXTINF:0,Tiny4K
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6258/index.m3u
+#EXTINF:0,Trans Angels
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6259/index.m3u
+#EXTINF:0,True Amateurs
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6260/index.m3u
+#EXTINF:0,Tushy HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6261/index.m3u
+#EXTINF:0,TushyRAW
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6262/index.m3u
+#EXTINF:0,Visit-X TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6263/index.m3u
+#EXTINF:0,Vivid TV Europe
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6264/index.m3u
+#EXTINF:0,Vixen HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6265/index.m3u
+#EXTINF:0,We Live Together
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6266/index.m3u
+#EXTINF:0,White Boxxx
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6267/index.m3u
+#EXTINF:0,Wicked
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6268/index.m3u
+#EXTINF:0,Xpanded TV
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6269/index.m3u
+#EXTINF:0,Balkan Erotic
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6270/index.m3u
+#EXTINF:0,Bangerz
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6271/index.m3u
+#EXTINF:0,Emanuelle HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6272/index.m3u
+#EXTINF:0,Extreme
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6273/index.m3u
+#EXTINF:0,Fast Boyz
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6274/index.m3u
+#EXTINF:0,HOT
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6275/index.m3u
+#EXTINF:0,HOT XXL HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6276/index.m3u
+#EXTINF:0,Hot Pleasure
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6277/index.m3u
+#EXTINF:0,Lesbian Affair
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6278/index.m3u
+#EXTINF:0,Oldtimer
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6279/index.m3u
+#EXTINF:0,Playboy LA
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6280/index.m3u
+#EXTINF:0,Red XXX
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6281/index.m3u
+#EXTINF:0,Sexy Hot
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6282/index.m3u
+#EXTINF:0,Taboo
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6283/index.m3u
+#EXTINF:0,Venus
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6284/index.m3u
+#EXTINF:0,X-MO
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6285/index.m3u
+#EXTINF:0,XY Max HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6286/index.m3u
+#EXTINF:0,XY Mix HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6287/index.m3u
+#EXTINF:0,XY Plus HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6288/index.m3u
+#EXTINF:0,Erotic
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6289/index.m3u
+#EXTINF:0,Erotic 2
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6290/index.m3u
+#EXTINF:0,Erotic 3
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6291/index.m3u
+#EXTINF:0,Erotic 4
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6292/index.m3u
+#EXTINF:0,Erotic 6
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6293/index.m3u
+#EXTINF:0,Erotic 7
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6294/index.m3u
+#EXTINF:0,Erotic 8
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6295/index.m3u
+#EXTINF:0,Erox HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6296/index.m3u
+#EXTINF:0,MvH Hard
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6297/index.m3u
+#EXTINF:0,SuperOne HD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6298/index.m3u
+#EXTINF:0,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6300/index.m3u
+#EXTINF:0,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6307/index.m3u
+#EXTINF:0,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/9006/index.m3u
+#EXTINF:0,Dorcel HD orig
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/9064/index.m3u
+#EXTINF:0,Hustler HD orig
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/9065/index.m3u
+#EXTINF:0,Redlight HD orig
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/9066/index.m3u
+#EXTINF:0,Passion XXX orig
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/9067/index.m3u
+#EXTINF:0,Satisfaction HD orig
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/9068/index.m3u
+#EXTINF:0,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/9071/index.m3u
+#EXTINF:0,
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/9344/index.m3u
+#EXTINF:0,XXL orig
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/9345/index.m3u
+#EXTINF:0,EXXXOTICA HD orig
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/9346/index.m3u
+#EXTINF:-1, fluxus
+http://live.redtraffic.xyz/milf.m3u8?
+#EXTINF:-1, pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1, m***
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1, big dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1, big tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1, big ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1, interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1, Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1, point of view
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1, teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1, hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1, threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1, Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1, lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1, live cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1, anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1, blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1, brunette
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1, rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:1, lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:1, russian
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:1, threesome
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:1, cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:1, hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:1, teen
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:1, blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:1, pov
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:1, latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:1, interracial
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:1, bigass
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:1, pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:1, fetish
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:1, bigtits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:1, bigdick
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:1, milf
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1,venus
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/VENUS/20-hls/live-media.m3u8
+#EXTINF:-1, pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1, m***
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1, big dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1, big tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1, big ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1, interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1, Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1, point of view
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1, teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1, hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1, threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1, Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1, lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1, live cam
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1, anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1, blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1, compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1, rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1,
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:0,Big Ass (18+)
 http://live.redtraffic.xyz/bigass.m3u8
 #EXTINF:0,Cuckold HD 720 (18+)
