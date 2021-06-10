@@ -1,8 +1,8 @@
 #EXTM3U
+#EXTINF:-1
+streema.com/radios/play/Guadalupe_Radio
 #EXTINF:-1 cuba vision
 http://190.122.96.187:8888/http/010?checkedby:iptvcat.com
-#EXTINF:-1
-C:\Users\unirose4u\Downloads\master (11)(1).m3u8
 #EXTINF:-1
 https://mediastreamm.com:3149/live/jn19tvlive.m3u8?WebM3UCL
 #EXTINF:-1
@@ -23,7 +23,6 @@ https://play-akamai.pongalo.com/confessions-prodigal-son/confessions-prodigal-so
 https://prod.pongalo.com/play.m3u8?access-key=44ca1f89fd66e7284db8386bc9d36083af684fe3
 #EXTINF:-1
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1653213454.m3u8
-C:\Users\unirose4u\Downloads\master (11)(1).m3u8
 #EXTINF:-1
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
 #EXTINF:-1
